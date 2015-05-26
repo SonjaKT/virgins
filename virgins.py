@@ -3,7 +3,7 @@ function generator makes the agents that will be in the model and puts them in a
 
 effectively, the name of each agent will be its place in the list, or, in other words, the objects don't really have names, but they can be pointed to by using agents[0] for the first object, etc. 
 
-natures_course is the function that happens every night. it has agents meet, decide to fuck, spread disease or not. 
+natures_course is the function that happens every night. it has agents meet, decide to have sex, spread disease or not. 
 
 note: for 100% you must put in "100". "1" will be interpreted as 1%
 """
