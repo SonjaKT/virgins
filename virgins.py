@@ -5,7 +5,7 @@ effectively, the name of each agent will be its place in the list, or, in other 
 
 natures_course is the function that happens every night. it has agents meet, decide to fuck, spread disease or not. 
 
-note: for 100% you much put in "100". "1" will be interpreted as 1%
+note: for 100% you must put in "100". "1" will be interpreted as 1%
 """
 import random
 
